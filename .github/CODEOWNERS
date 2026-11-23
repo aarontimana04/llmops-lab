@@ -1,0 +1,7 @@
+# El juez tiene dueño: estos archivos solo cambian con la aprobación de esa persona.
+# Reemplaza @aarontimana04 por tu usuario de GitHub.
+/gate/                  @aarontimana04
+/data/golden.jsonl      @aarontimana04
+/src/evaluate.py        @aarontimana04
+/src/gate.py            @aarontimana04
+/.github/               @aarontimana04
